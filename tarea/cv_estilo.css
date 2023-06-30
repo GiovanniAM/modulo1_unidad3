@@ -14,7 +14,6 @@ h2, h3 {
     margin: 5px 5px 5px 30px;
 }
 
-/*- Usar el box-sizing; border-box; aplicado a todas las cajas*/
 img {
     border-radius: 5%;
     box-shadow: 8px 9px 8px 6px rgba(0,0,0,0.43);
@@ -26,6 +25,7 @@ li {
 
 .experiencia_laboral {
     width: 30%;
+    box-sizing: border-box;
     border-radius: 0px 0px 100px 0px;
     background: #eaefff;
     border: 3px solid #dadde9;
