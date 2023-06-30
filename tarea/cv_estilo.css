@@ -31,3 +31,12 @@ li {
     border: 3px solid #dadde9;
     margin: 1em;
 }
+
+.gusta_hacer {
+    width: 20%;
+    box-sizing: border-box;
+    border-radius: 0px 0px 100px 0px;
+    background: #dadde9;
+    border: 3px solid #eaefff;
+    margin: 1em;
+}
